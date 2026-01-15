@@ -8,7 +8,7 @@ This project analyzes retail transaction data to uncover sales trends, product p
 - Over 50,000 transaction records after data cleaning
 
 ## Tools Used
-- Excel (Power Query, PivotTables, PivotCharts)
+- Excel (Power Query, PivotTables)
 
 ## Key Analysis Steps
 - Cleaned raw transactional data by removing canceled orders, filtering returns, and handling missing customer identifiers
