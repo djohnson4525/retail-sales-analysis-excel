@@ -5,15 +5,14 @@ This project analyzes retail transaction data to uncover sales trends, product p
 
 ## Dataset
 - Online retail transaction data containing invoices, products, customers, prices, and timestamps
-- Over 500,000 transaction records after data cleaning
+- Over 50,000 transaction records after data cleaning
 
 ## Tools Used
 - Excel (Power Query, PivotTables, PivotCharts)
-- Python (used for validation and exploratory analysis)
 
 ## Key Analysis Steps
 - Cleaned raw transactional data by removing canceled orders, filtering returns, and handling missing customer identifiers
-- Created derived revenue metrics and standardized data types
+- Created derived revenue metrics
 - Analyzed monthly revenue trends, top-performing products, high-value customers, and country-level sales performance
 - Built an executive-style Excel dashboard summarizing key business insights
 
